@@ -22,13 +22,13 @@ This challenge was provided by Arvato Financial Solutions for the Udacity Data S
 
 There were two major steps in the project and the submission
 
-####Customer Segmentation Report 
+#### Customer Segmentation Report 
 With data of customers of a mail-order sales company in Germany and comparing it with demographics information for the general population. In this part it is used unsupervised learning techniques to perform customer segmentation, identifying through clusters the parts of the population that best describe the customer of the company.
 
-####Supervised Learning Model
+#### Supervised Learning Model
 This part it is used the knowledge from the previous analysis and a machine learning model is build to predict whether or not a person will become a customer.
 
-####Kaggle Competition 
+#### Kaggle Competition 
 With the model created, it is time to submit the predictions of the test data to this [Kaggle Competition](https://www.kaggle.com/c/udacity-arvato-identify-customers)
 
 
