@@ -2,11 +2,13 @@
 <p align="center">
    <img src="banner.png" >
 </p>
+
 # Customer Segmentation Report for Arvato Financial Solutions - Udacity Project
 
 The following project has been created as part of the Udacity Data Science Nanodegree https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
 Blog post avaible in this [link](https://medium.com/@paulobueno_38478/customers-segmentation-report-arvato-financial-solutions-c6e5de9f7f1e)
+
 
 ## Libraries Used
 
