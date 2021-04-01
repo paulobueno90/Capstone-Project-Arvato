@@ -21,27 +21,26 @@ Python Version: 3.8.5
 There were four data files provided by Arvato for this project. 
 As part of the terms and conditions of Arvato, the files cannot be shared in this repository. However, they can be described below.
 
-### Demographics data
+#### Demographics data
 
-#### azdias.csv -  general population of Germany 
+##### azdias.csv -  general population of Germany 
 - 891,211 rows
 - 366 features
 
-#### customers.csv - customers of a mail-order company 
+##### customers.csv - customers of a mail-order company 
 - 191,652 rows
 - 369 features
 
-#### mailout_train.csv - target individuals of a marketing campaign (train) 
+##### mailout_train.csv - target individuals of a marketing campaign (train) 
 - 42,982 rows
 - 367 features
 
-#### mailout_test.csv - target individuals of a marketing campaign (test) 
+##### mailout_test.csv - target individuals of a marketing campaign (test) 
 - 42,833 rows
 - 366 features
 
 ## Summary
 This challenge was provided by Arvato Financial Solutions for the Udacity Data Science Nanodegree Program.
-
 There were two major steps in the project and the submission
 
 #### Customer Segmentation Report 
