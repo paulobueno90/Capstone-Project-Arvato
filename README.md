@@ -7,7 +7,7 @@
 
 The following project has been created as part of the Udacity Data Science Nanodegree https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
-Blog post avaible in this [link](https://medium.com/@paulobueno_38478/customers-segmentation-report-arvato-financial-solutions-c6e5de9f7f1e)
+Blog post avaible in this [link](https://medium.com/@paulobueno_38478/customers-segmentation-report-arvato-financial-solutions-5a3dc1c90e2)
 
 
 ## Libraries Used
@@ -19,7 +19,7 @@ Python Version: 3.8.5
 - Scikit-Learn
 - imblearn
 
-## Data Files
+## File Descriptions
 There were four data files provided by Arvato for this project. 
 As part of the terms and conditions of Arvato, the files cannot be shared in this repository. However, they can be described below.
 
@@ -41,6 +41,12 @@ As part of the terms and conditions of Arvato, the files cannot be shared in thi
 - 42,833 rows
 - 366 features
 
+#### Notebooks in this repository:
+These are public notebooks and can be used.
+- 1-DataExploration_and_Cleaning.ipynb: Notebook data preparations such as cleaning, feature engeneering and handling NaNs
+- 2-Customer Segmentation.ipynb: Notebook initiates with clean data and go to steps of dimensionality reduction and clustering
+- 3-Supervised Model.ipynb: Test models, fit and submission.
+
 ## Summary
 This challenge was provided by Arvato Financial Solutions for the Udacity Data Science Nanodegree Program.
 There were two major steps in the project and the submission
@@ -54,6 +60,15 @@ This part it is used the knowledge from the previous analysis and a machine lear
 #### Kaggle Competition 
 With the model created, it is time to submit the predictions of the test data to this [Kaggle Competition](https://www.kaggle.com/c/udacity-arvato-identify-customers)
 
+## Results
+But in summary, looking into data it can be said that the group of potencial customers are:
+- Individuals with Higher income and wealth.
+- Individuals which is more avantgard than mainstream and more likely to be green avantgarde ( sustainability)
+- Live in areas with lower density of inhabitants and lower unemployement.
+- Has higher mobility
+- Mid-ager with family individuals
+
+If the company were willing to launch a marketing campaign, it would be more efficient to target these clusters of characteristics.
 
 ## Acknowledgements
 
