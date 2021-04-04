@@ -46,6 +46,8 @@ These are public notebooks and can be used.
 - 1-DataExploration_and_Cleaning.ipynb: Notebook data preparations such as cleaning, feature engeneering and handling NaNs
 - 2-Customer Segmentation.ipynb: Notebook initiates with clean data and go to steps of dimensionality reduction and clustering
 - 3-Supervised Model.ipynb: Test models, fit and submission.
+## Python Functions
+- functions.py - File with some functions used in the notebooks.
 
 ## Summary
 This challenge was provided by Arvato Financial Solutions for the Udacity Data Science Nanodegree Program.
