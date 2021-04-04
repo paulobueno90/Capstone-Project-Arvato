@@ -41,7 +41,7 @@ As part of the terms and conditions of Arvato, the files cannot be shared in thi
 - 42,833 rows
 - 366 features
 
-#### Notebooks in this repository:
+## Notebooks Description
 These are public notebooks and can be used.
 - 1-DataExploration_and_Cleaning.ipynb: Notebook data preparations such as cleaning, feature engeneering and handling NaNs
 - 2-Customer Segmentation.ipynb: Notebook initiates with clean data and go to steps of dimensionality reduction and clustering
