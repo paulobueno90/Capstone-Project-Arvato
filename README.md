@@ -61,7 +61,7 @@ This part it is used the knowledge from the previous analysis and a machine lear
 With the model created, it is time to submit the predictions of the test data to this [Kaggle Competition](https://www.kaggle.com/c/udacity-arvato-identify-customers)
 
 ## Results
-But in summary, looking into data it can be said that the group of potencial customers are:
+There are a lot of features missing description which was needed further investigation but i didn't have the time to adress. Therefore in summary, looking into data it can be said that the group of potencial customers are likely to have these characteristics:
 - Individuals with Higher income and wealth.
 - Individuals which is more avantgard than mainstream and more likely to be green avantgarde ( sustainability)
 - Live in areas with lower density of inhabitants and lower unemployement.
@@ -74,4 +74,3 @@ If the company were willing to launch a marketing campaign, it would be more eff
 
 Udacity - For giving me the opportunity to learn and develop with real projects
 Arvato - For the oppotunity to work on their data with a real life project experience
-
