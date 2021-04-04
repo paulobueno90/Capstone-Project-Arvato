@@ -73,4 +73,5 @@ If the company were willing to launch a marketing campaign, it would be more eff
 ## Acknowledgements
 
 Udacity - For giving me the opportunity to learn and develop with real projects
+
 Arvato - For the oppotunity to work on their data with a real life project experience
